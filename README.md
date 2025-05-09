@@ -5,7 +5,7 @@
 
 A simple yet elegant Todo List web application built with Flask, HTML, and CSS. This application allows you to add, mark as complete, and delete tasks with a beautiful background and smooth user interface.
 
-![Todo List Application Screenshot](https://placehold.co/600x400?text=Screenshot+Coming+Soon)
+![Todo List Application Screenshot](Screenshot/image.png)
 
 ## Features
 
